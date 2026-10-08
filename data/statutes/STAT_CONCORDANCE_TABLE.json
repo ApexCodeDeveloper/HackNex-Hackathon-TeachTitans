@@ -1,0 +1,15 @@
+{
+  "doc_id": "STAT_CONCORDANCE_TABLE",
+  "title": "Official Concordance Mapping Table: IPC to BNS and CrPC to BNSS",
+  "doc_type": "concordance",
+  "date": "2024-07-01",
+  "source_url": "https://www.mha.gov.in/en/commoncontent/new-criminal-laws",
+  "license": "Public Domain (Ministry of Home Affairs, Government of India)",
+  "sections": [
+    {
+      "section": "IPC-BNS-CRPC-BNSS-MAP",
+      "heading": "Statutory Cross-Reference and Concordance Table",
+      "text": "This concordance table establishes the legal identity and mapping between Indian Penal Code 1860 (IPC) and Bharatiya Nyaya Sanhita 2023 (BNS), and Code of Criminal Procedure 1973 (CrPC) and Bharatiya Nagarik Suraksha Sanhita 2023 (BNSS): (1) IPC Section 420 (Cheating and dishonestly inducing delivery of property) corresponds strictly to BNS Section 318(4). (2) IPC Section 406 (Criminal breach of trust) corresponds strictly to BNS Section 316. (3) IPC Section 302 (Murder) corresponds strictly to BNS Section 103. (4) IPC Section 307 (Attempt to murder) corresponds strictly to BNS Section 109. (5) IPC Section 323 (Voluntarily causing hurt) corresponds to BNS Section 115(2). (6) IPC Section 506 (Criminal intimidation) corresponds to BNS Section 351(2). (7) CrPC Section 437 (Bail in non-bailable offences by Magistrate) corresponds to BNSS Section 480. (8) CrPC Section 438 (Anticipatory Bail) corresponds to BNSS Section 482. (9) CrPC Section 439 (Special powers of High Court or Sessions Court regarding bail) corresponds to BNSS Section 483. (10) CrPC Section 41A (Notice of appearance before police officer) corresponds to BNSS Section 35(3). (11) CrPC Section 436A (Maximum period for undertrial detention) corresponds to BNSS Section 479. (12) CrPC Section 167 (Procedure when investigation cannot be completed in 24 hours / Remand) corresponds to BNSS Section 187."
+    }
+  ]
+}

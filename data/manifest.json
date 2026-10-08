@@ -1,0 +1,438 @@
+{
+  "project": "VertifyCase",
+  "jurisdiction": "India",
+  "version": "1.0.0",
+  "total_documents": 43,
+  "documents": [
+    {
+      "doc_id": "STAT_BNSS_479",
+      "title": "Section 479 of Bharatiya Nagarik Suraksha Sanhita, 2023",
+      "doc_type": "statute",
+      "date": "2023-12-25",
+      "jurisdiction": "India",
+      "source_url": "https://www.indiacode.nic.in/handle/123456789/21434",
+      "license": "Public Domain (Government of India)",
+      "file_path": "data\\statutes\\STAT_BNSS_479.json"
+    },
+    {
+      "doc_id": "STAT_BNSS_480",
+      "title": "Section 480 of Bharatiya Nagarik Suraksha Sanhita, 2023",
+      "doc_type": "statute",
+      "date": "2023-12-25",
+      "jurisdiction": "India",
+      "source_url": "https://www.indiacode.nic.in/handle/123456789/21434",
+      "license": "Public Domain (Government of India)",
+      "file_path": "data\\statutes\\STAT_BNSS_480.json"
+    },
+    {
+      "doc_id": "STAT_BNSS_482",
+      "title": "Section 482 of Bharatiya Nagarik Suraksha Sanhita, 2023",
+      "doc_type": "statute",
+      "date": "2023-12-25",
+      "jurisdiction": "India",
+      "source_url": "https://www.indiacode.nic.in/handle/123456789/21434",
+      "license": "Public Domain (Government of India)",
+      "file_path": "data\\statutes\\STAT_BNSS_482.json"
+    },
+    {
+      "doc_id": "STAT_BNSS_483",
+      "title": "Section 483 of Bharatiya Nagarik Suraksha Sanhita, 2023",
+      "doc_type": "statute",
+      "date": "2023-12-25",
+      "jurisdiction": "India",
+      "source_url": "https://www.indiacode.nic.in/handle/123456789/21434",
+      "license": "Public Domain (Government of India)",
+      "file_path": "data\\statutes\\STAT_BNSS_483.json"
+    },
+    {
+      "doc_id": "STAT_BNSS_35",
+      "title": "Section 35 of Bharatiya Nagarik Suraksha Sanhita, 2023",
+      "doc_type": "statute",
+      "date": "2023-12-25",
+      "jurisdiction": "India",
+      "source_url": "https://www.indiacode.nic.in/handle/123456789/21434",
+      "license": "Public Domain (Government of India)",
+      "file_path": "data\\statutes\\STAT_BNSS_35.json"
+    },
+    {
+      "doc_id": "STAT_BNS_318",
+      "title": "Section 318 of Bharatiya Nyaya Sanhita, 2023",
+      "doc_type": "statute",
+      "date": "2023-12-25",
+      "jurisdiction": "India",
+      "source_url": "https://www.indiacode.nic.in/handle/123456789/21433",
+      "license": "Public Domain (Government of India)",
+      "file_path": "data\\statutes\\STAT_BNS_318.json"
+    },
+    {
+      "doc_id": "STAT_BNS_316",
+      "title": "Section 316 of Bharatiya Nyaya Sanhita, 2023",
+      "doc_type": "statute",
+      "date": "2023-12-25",
+      "jurisdiction": "India",
+      "source_url": "https://www.indiacode.nic.in/handle/123456789/21433",
+      "license": "Public Domain (Government of India)",
+      "file_path": "data\\statutes\\STAT_BNS_316.json"
+    },
+    {
+      "doc_id": "STAT_BNS_115",
+      "title": "Section 115 of Bharatiya Nyaya Sanhita, 2023",
+      "doc_type": "statute",
+      "date": "2023-12-25",
+      "jurisdiction": "India",
+      "source_url": "https://www.indiacode.nic.in/handle/123456789/21433",
+      "license": "Public Domain (Government of India)",
+      "file_path": "data\\statutes\\STAT_BNS_115.json"
+    },
+    {
+      "doc_id": "STAT_BNS_351",
+      "title": "Section 351 of Bharatiya Nyaya Sanhita, 2023",
+      "doc_type": "statute",
+      "date": "2023-12-25",
+      "jurisdiction": "India",
+      "source_url": "https://www.indiacode.nic.in/handle/123456789/21433",
+      "license": "Public Domain (Government of India)",
+      "file_path": "data\\statutes\\STAT_BNS_351.json"
+    },
+    {
+      "doc_id": "STAT_CRPC_437",
+      "title": "Section 437 of Code of Criminal Procedure, 1973 (Pre-July-2024 matters)",
+      "doc_type": "statute",
+      "date": "1974-04-01",
+      "jurisdiction": "India",
+      "source_url": "https://www.indiacode.nic.in/handle/123456789/1611",
+      "license": "Public Domain (Government of India)",
+      "file_path": "data\\statutes\\STAT_CRPC_437.json"
+    },
+    {
+      "doc_id": "STAT_CRPC_439",
+      "title": "Section 439 of Code of Criminal Procedure, 1973 (Pre-July-2024 matters)",
+      "doc_type": "statute",
+      "date": "1974-04-01",
+      "jurisdiction": "India",
+      "source_url": "https://www.indiacode.nic.in/handle/123456789/1611",
+      "license": "Public Domain (Government of India)",
+      "file_path": "data\\statutes\\STAT_CRPC_439.json"
+    },
+    {
+      "doc_id": "STAT_CRPC_41A",
+      "title": "Section 41A of Code of Criminal Procedure, 1973 (Pre-July-2024 matters)",
+      "doc_type": "statute",
+      "date": "2010-11-01",
+      "jurisdiction": "India",
+      "source_url": "https://www.indiacode.nic.in/handle/123456789/1611",
+      "license": "Public Domain (Government of India)",
+      "file_path": "data\\statutes\\STAT_CRPC_41A.json"
+    },
+    {
+      "doc_id": "STAT_IPC_420",
+      "title": "Section 420 of Indian Penal Code, 1860 (Pre-July-2024 matters)",
+      "doc_type": "statute",
+      "date": "1860-10-06",
+      "jurisdiction": "India",
+      "source_url": "https://www.indiacode.nic.in/handle/123456789/2263",
+      "license": "Public Domain (Government of India)",
+      "file_path": "data\\statutes\\STAT_IPC_420.json"
+    },
+    {
+      "doc_id": "STAT_CONST_ART21",
+      "title": "Article 21 of the Constitution of India",
+      "doc_type": "statute",
+      "date": "1950-01-26",
+      "jurisdiction": "India",
+      "source_url": "https://www.india.gov.in/my-government/constitution-india",
+      "license": "Public Domain",
+      "file_path": "data\\statutes\\STAT_CONST_ART21.json"
+    },
+    {
+      "doc_id": "STAT_CONST_ART22",
+      "title": "Article 22 of the Constitution of India",
+      "doc_type": "statute",
+      "date": "1950-01-26",
+      "jurisdiction": "India",
+      "source_url": "https://www.india.gov.in/my-government/constitution-india",
+      "license": "Public Domain",
+      "file_path": "data\\statutes\\STAT_CONST_ART22.json"
+    },
+    {
+      "doc_id": "STAT_NIA_138",
+      "title": "Section 138 of Negotiable Instruments Act, 1881",
+      "doc_type": "statute",
+      "date": "1881-12-09",
+      "jurisdiction": "India",
+      "source_url": "https://www.indiacode.nic.in/handle/123456789/2242",
+      "license": "Public Domain",
+      "file_path": "data\\statutes\\STAT_NIA_138.json"
+    },
+    {
+      "doc_id": "STAT_CONCORDANCE_TABLE",
+      "title": "Official Concordance Mapping Table: IPC to BNS and CrPC to BNSS",
+      "doc_type": "concordance",
+      "date": "2024-07-01",
+      "jurisdiction": "India",
+      "source_url": "https://www.mha.gov.in/en/commoncontent/new-criminal-laws",
+      "license": "Public Domain (Ministry of Home Affairs, Government of India)",
+      "file_path": "data\\statutes\\STAT_CONCORDANCE_TABLE.json"
+    },
+    {
+      "doc_id": "JUDG_SC_ARNESH_KUMAR_2014",
+      "title": "Arnesh Kumar v. State of Bihar & Anr. - (2014) 8 SCC 273",
+      "doc_type": "judgment",
+      "date": "2014-07-02",
+      "jurisdiction": "India",
+      "source_url": "https://indiankanoon.org/doc/2982624/",
+      "license": "Public Domain (Indian Judiciary)",
+      "file_path": "data\\judgments\\JUDG_SC_ARNESH_KUMAR_2014.json"
+    },
+    {
+      "doc_id": "JUDG_SC_SATENDER_ANTIL_2022",
+      "title": "Satender Kumar Antil v. Central Bureau of Investigation & Anr. - (2022) 10 SCC 51",
+      "doc_type": "judgment",
+      "date": "2022-07-11",
+      "jurisdiction": "India",
+      "source_url": "https://indiankanoon.org/doc/170949162/",
+      "license": "Public Domain (Indian Judiciary)",
+      "file_path": "data\\judgments\\JUDG_SC_SATENDER_ANTIL_2022.json"
+    },
+    {
+      "doc_id": "JUDG_SC_SANJAY_CHANDRA_2012",
+      "title": "Sanjay Chandra v. Central Bureau of Investigation - (2012) 1 SCC 40",
+      "doc_type": "judgment",
+      "date": "2011-11-23",
+      "jurisdiction": "India",
+      "source_url": "https://indiankanoon.org/doc/744040/",
+      "license": "Public Domain (Indian Judiciary)",
+      "file_path": "data\\judgments\\JUDG_SC_SANJAY_CHANDRA_2012.json"
+    },
+    {
+      "doc_id": "JUDG_SC_DK_BASU_1997",
+      "title": "D.K. Basu v. State of West Bengal - (1997) 1 SCC 416",
+      "doc_type": "judgment",
+      "date": "1996-12-18",
+      "jurisdiction": "India",
+      "source_url": "https://indiankanoon.org/doc/501198/",
+      "license": "Public Domain (Indian Judiciary)",
+      "file_path": "data\\judgments\\JUDG_SC_DK_BASU_1997.json"
+    },
+    {
+      "doc_id": "JUDG_SC_GURBAKSH_SIBBIA_1980",
+      "title": "Gurbaksh Singh Sibbia etc. v. State of Punjab - (1980) 2 SCC 565",
+      "doc_type": "judgment",
+      "date": "1980-04-09",
+      "jurisdiction": "India",
+      "source_url": "https://indiankanoon.org/doc/1301416/",
+      "license": "Public Domain (Indian Judiciary)",
+      "file_path": "data\\judgments\\JUDG_SC_GURBAKSH_SIBBIA_1980.json"
+    },
+    {
+      "doc_id": "JUDG_SC_CHIDAMBARAM_2020",
+      "title": "P. Chidambaram v. Directorate of Enforcement - (2020) 13 SCC 791",
+      "doc_type": "judgment",
+      "date": "2019-12-04",
+      "jurisdiction": "India",
+      "source_url": "https://indiankanoon.org/doc/171542385/",
+      "license": "Public Domain (Indian Judiciary)",
+      "file_path": "data\\judgments\\JUDG_SC_CHIDAMBARAM_2020.json"
+    },
+    {
+      "doc_id": "JUDG_SC_BALCHAND_1977",
+      "title": "State of Rajasthan, Jaipur v. Balchand alias Baliya - AIR 1977 SC 2447",
+      "doc_type": "judgment",
+      "date": "1977-09-20",
+      "jurisdiction": "India",
+      "source_url": "https://indiankanoon.org/doc/1183014/",
+      "license": "Public Domain (Indian Judiciary)",
+      "file_path": "data\\judgments\\JUDG_SC_BALCHAND_1977.json"
+    },
+    {
+      "doc_id": "CASE_142_FIR",
+      "title": "First Information Report No. 142/2024, Police Station Connaught Place",
+      "doc_type": "fir",
+      "date": "2024-08-12",
+      "jurisdiction": "India",
+      "source_url": "Internal Police Case Diary Archive",
+      "license": "Judicial Record (Public Access under CrPC 173/BNSS 193)",
+      "file_path": "data\\case_files\\CASE_142_FIR.json"
+    },
+    {
+      "doc_id": "CASE_142_ARREST_MEMO",
+      "title": "Arrest Memo of Rajesh Sharma - FIR No. 142/2024",
+      "doc_type": "arrest_memo",
+      "date": "2024-08-14",
+      "jurisdiction": "India",
+      "source_url": "Internal Police Case Diary Archive",
+      "license": "Judicial Record",
+      "file_path": "data\\case_files\\CASE_142_ARREST_MEMO.json"
+    },
+    {
+      "doc_id": "CASE_142_SEIZURE_MEMO",
+      "title": "Seizure Panchnama of Digital Device and Cash - FIR No. 142/2024",
+      "doc_type": "panchnama",
+      "date": "2024-08-15",
+      "jurisdiction": "India",
+      "source_url": "Internal Police Case Diary Archive",
+      "license": "Judicial Record",
+      "file_path": "data\\case_files\\CASE_142_SEIZURE_MEMO.json"
+    },
+    {
+      "doc_id": "CASE_142_MLC",
+      "title": "Medico-Legal Certificate (MLC) No. 4891/2024 - Rajesh Sharma",
+      "doc_type": "medical_report",
+      "date": "2024-08-15",
+      "jurisdiction": "India",
+      "source_url": "Dr. Ram Manohar Lohia Hospital, New Delhi",
+      "license": "Judicial Medical Record",
+      "file_path": "data\\case_files\\CASE_142_MLC.json"
+    },
+    {
+      "doc_id": "CASE_142_REMAND_ORDER",
+      "title": "Order of Metropolitan Magistrate granting Judicial Custody - 15-08-2024",
+      "doc_type": "court_order",
+      "date": "2024-08-15",
+      "jurisdiction": "India",
+      "source_url": "Court of Chief Metropolitan Magistrate, Patiala House Courts, New Delhi",
+      "license": "Judicial Record",
+      "file_path": "data\\case_files\\CASE_142_REMAND_ORDER.json"
+    },
+    {
+      "doc_id": "CASE_142_SESSIONS_ORDER",
+      "title": "Order of Additional Sessions Judge rejecting regular bail - 28-08-2024",
+      "doc_type": "court_order",
+      "date": "2024-08-28",
+      "jurisdiction": "India",
+      "source_url": "Court of Additional Sessions Judge-03, Patiala House Courts, New Delhi",
+      "license": "Judicial Record",
+      "file_path": "data\\case_files\\CASE_142_SESSIONS_ORDER.json"
+    },
+    {
+      "doc_id": "CASE_142_CHARGESHEET",
+      "title": "Final Investigation Report / Charge Sheet under Section 193 BNSS - FIR 142/2024",
+      "doc_type": "chargesheet",
+      "date": "2024-09-30",
+      "jurisdiction": "India",
+      "source_url": "Court of CMM, Patiala House Courts",
+      "license": "Judicial Record",
+      "file_path": "data\\case_files\\CASE_142_CHARGESHEET.json"
+    },
+    {
+      "doc_id": "CASE_201_LEGAL_NOTICE",
+      "title": "Statutory Demand Notice under Section 138 NI Act - M/s Apex Infotech",
+      "doc_type": "legal_notice",
+      "date": "2024-09-14",
+      "jurisdiction": "India",
+      "source_url": "Advocate Office Archives, Delhi High Court",
+      "license": "Legal Communication",
+      "file_path": "data\\case_files\\CASE_201_LEGAL_NOTICE.json"
+    },
+    {
+      "doc_id": "CASE_201_CHEQUE_MEMO",
+      "title": "Cheque Return Memo of Axis Bank - Cheque No. 441029",
+      "doc_type": "bank_memo",
+      "date": "2024-09-12",
+      "jurisdiction": "India",
+      "source_url": "HDFC Bank Clearing Department, New Delhi",
+      "license": "Banking Commercial Record",
+      "file_path": "data\\case_files\\CASE_201_CHEQUE_MEMO.json"
+    },
+    {
+      "doc_id": "CASE_201_POSTAL_TRACKING",
+      "title": "India Post Consignment Tracking Delivery Proof - Consignment ED981244012IN",
+      "doc_type": "postal_record",
+      "date": "2024-09-16",
+      "jurisdiction": "India",
+      "source_url": "India Post Consignment Tracking Portal",
+      "license": "Public Postal Record",
+      "file_path": "data\\case_files\\CASE_201_POSTAL_TRACKING.json"
+    },
+    {
+      "doc_id": "CASE_201_REPLY_NOTICE",
+      "title": "Reply to Legal Notice - M/s Zenon Logistics Pvt. Ltd.",
+      "doc_type": "reply_notice",
+      "date": "2024-09-28",
+      "jurisdiction": "India",
+      "source_url": "Advocate Chambers, Patiala House Courts",
+      "license": "Legal Communication",
+      "file_path": "data\\case_files\\CASE_201_REPLY_NOTICE.json"
+    },
+    {
+      "doc_id": "CASE_201_CONTRACT",
+      "title": "Master Services Agreement between Apex Infotech and Zenon Logistics",
+      "doc_type": "contract",
+      "date": "2024-01-10",
+      "jurisdiction": "India",
+      "source_url": "Corporate Legal Records",
+      "license": "Private Commercial Contract",
+      "file_path": "data\\case_files\\CASE_201_CONTRACT.json"
+    },
+    {
+      "doc_id": "CASE_305_FIR",
+      "title": "FIR No. 89/2024, PS Hauz Khas - Sections 115, 351 BNS 2023",
+      "doc_type": "fir",
+      "date": "2024-07-20",
+      "jurisdiction": "India",
+      "source_url": "Delhi Police Public FIR Portal",
+      "license": "Judicial Record",
+      "file_path": "data\\case_files\\CASE_305_FIR.json"
+    },
+    {
+      "doc_id": "CASE_305_BNSS_NOTICE",
+      "title": "Notice under Section 35(3) BNSS (Section 41A CrPC) to Sunita Verma",
+      "doc_type": "police_notice",
+      "date": "2024-07-22",
+      "jurisdiction": "India",
+      "source_url": "PS Hauz Khas Records",
+      "license": "Judicial Record",
+      "file_path": "data\\case_files\\CASE_305_BNSS_NOTICE.json"
+    },
+    {
+      "doc_id": "CASE_305_COMPLIANCE",
+      "title": "Investigation Attendance & Cooperation Memo - Sunita Verma",
+      "doc_type": "investigation_memo",
+      "date": "2024-07-25",
+      "jurisdiction": "India",
+      "source_url": "PS Hauz Khas Case Diary",
+      "license": "Judicial Record",
+      "file_path": "data\\case_files\\CASE_305_COMPLIANCE.json"
+    },
+    {
+      "doc_id": "CASE_305_CIVIL_SUIT",
+      "title": "Plaint in Civil Suit No. CS SCJ 412/2024 - Sunita Verma v. Radhika Verma",
+      "doc_type": "court_pleading",
+      "date": "2024-05-15",
+      "jurisdiction": "India",
+      "source_url": "Court of Senior Civil Judge, Saket Courts, New Delhi",
+      "license": "Judicial Record",
+      "file_path": "data\\case_files\\CASE_305_CIVIL_SUIT.json"
+    },
+    {
+      "doc_id": "CASE_401_DISCHARGE_SUMMARY",
+      "title": "Discharge Summary - Roy Multi-Specialty Clinic",
+      "doc_type": "medical_summary",
+      "date": "2024-06-18",
+      "jurisdiction": "India",
+      "source_url": "Roy Multi-Specialty Clinic, Kalkaji, New Delhi",
+      "license": "Medical Record",
+      "file_path": "data\\case_files\\CASE_401_DISCHARGE_SUMMARY.json"
+    },
+    {
+      "doc_id": "CASE_401_EXPERT_BOARD",
+      "title": "Medical Board Opinion - AIIMS New Delhi",
+      "doc_type": "expert_opinion",
+      "date": "2024-08-05",
+      "jurisdiction": "India",
+      "source_url": "All India Institute of Medical Sciences, New Delhi",
+      "license": "Public Medical Board Report",
+      "file_path": "data\\case_files\\CASE_401_EXPERT_BOARD.json"
+    },
+    {
+      "doc_id": "CASE_401_LEGAL_NOTICE",
+      "title": "Legal Notice for Medical Negligence and Damages",
+      "doc_type": "legal_notice",
+      "date": "2024-08-25",
+      "jurisdiction": "India",
+      "source_url": "Advocate Chambers, Saket Courts",
+      "license": "Legal Communication",
+      "file_path": "data\\case_files\\CASE_401_LEGAL_NOTICE.json"
+    }
+  ]
+}

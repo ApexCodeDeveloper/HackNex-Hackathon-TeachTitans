@@ -1,0 +1,227 @@
+[
+  {
+    "id": "EVAL_01",
+    "category": "statutory_lookup",
+    "query": "What is the maximum detention period for an undertrial prisoner who is a first-time offender under Section 479 of BNSS 2023?",
+    "gold_chunk_ids": ["STAT_BNSS_479:P1:C1"],
+    "gold_authorities": ["AUTH:STAT_BNSS_479"],
+    "is_unanswerable": false,
+    "has_contradiction": false
+  },
+  {
+    "id": "EVAL_02",
+    "category": "statutory_lookup",
+    "query": "Under which proviso can a sick or infirm person accused of a non-bailable offence be released on bail under Section 480 BNSS?",
+    "gold_chunk_ids": ["STAT_BNSS_480:P1:C1"],
+    "gold_authorities": ["AUTH:STAT_BNSS_480"],
+    "is_unanswerable": false,
+    "has_contradiction": false
+  },
+  {
+    "id": "EVAL_03",
+    "category": "landmark_precedent",
+    "query": "What are the mandatory arrest guidelines laid down in Arnesh Kumar v. State of Bihar for offences punishable up to 7 years?",
+    "gold_chunk_ids": ["JUDG_SC_ARNESH_KUMAR_2014:P1:C2"],
+    "gold_authorities": ["AUTH:SC_ARNESH_KUMAR_2014"],
+    "is_unanswerable": false,
+    "has_contradiction": false
+  },
+  {
+    "id": "EVAL_04",
+    "category": "landmark_precedent",
+    "query": "What did the Supreme Court hold in Satender Kumar Antil regarding Category A offences and undertrial population?",
+    "gold_chunk_ids": ["JUDG_SC_SATENDER_ANTIL_2022:P1:C2"],
+    "gold_authorities": ["AUTH:SC_SATENDER_ANTIL_2022"],
+    "is_unanswerable": false,
+    "has_contradiction": false
+  },
+  {
+    "id": "EVAL_05",
+    "category": "landmark_precedent",
+    "query": "What is the primary purpose of bail according to Sanjay Chandra v. CBI?",
+    "gold_chunk_ids": ["JUDG_SC_SANJAY_CHANDRA_2012:P1:C1"],
+    "gold_authorities": ["AUTH:SC_SANJAY_CHANDRA_2012"],
+    "is_unanswerable": false,
+    "has_contradiction": false
+  },
+  {
+    "id": "EVAL_06",
+    "category": "landmark_precedent",
+    "query": "Explain Justice Krishna Iyer's principle of 'bail not jail' in State of Rajasthan v. Balchand.",
+    "gold_chunk_ids": ["JUDG_SC_BALCHAND_1977:P1:C1"],
+    "gold_authorities": ["AUTH:SC_BALCHAND_1977"],
+    "is_unanswerable": false,
+    "has_contradiction": false
+  },
+  {
+    "id": "EVAL_07",
+    "category": "case_review_fact",
+    "query": "When and where was Rajesh Sharma arrested in FIR 142/2024?",
+    "gold_chunk_ids": ["CASE_142_ARREST_MEMO:P1:C1"],
+    "gold_authorities": [],
+    "is_unanswerable": false,
+    "has_contradiction": false
+  },
+  {
+    "id": "EVAL_08",
+    "category": "case_review_fact",
+    "query": "What were the clinical findings and blood pressure in the Medico-Legal Certificate of Rajesh Sharma?",
+    "gold_chunk_ids": ["CASE_142_MLC:P1:C1"],
+    "gold_authorities": [],
+    "is_unanswerable": false,
+    "has_contradiction": false
+  },
+  {
+    "id": "EVAL_09",
+    "category": "case_review_fact",
+    "query": "What items and cash were recovered under the Seizure Panchnama dated 15-08-2024 in FIR 142/2024?",
+    "gold_chunk_ids": ["CASE_142_SEIZURE_MEMO:P1:C1"],
+    "gold_authorities": [],
+    "is_unanswerable": false,
+    "has_contradiction": false
+  },
+  {
+    "id": "EVAL_10",
+    "category": "case_review_fact",
+    "query": "Why did the Metropolitan Magistrate reject police custody remand for Rajesh Sharma on 15.08.2024?",
+    "gold_chunk_ids": ["CASE_142_REMAND_ORDER:P1:C1"],
+    "gold_authorities": [],
+    "is_unanswerable": false,
+    "has_contradiction": false
+  },
+  {
+    "id": "EVAL_11",
+    "category": "statutory_lookup",
+    "query": "What is the statutory limitation period to issue a legal notice under Section 138 of the Negotiable Instruments Act upon cheque dishonour?",
+    "gold_chunk_ids": ["STAT_NIA_138:P1:C1"],
+    "gold_authorities": ["AUTH:STAT_NIA_138"],
+    "is_unanswerable": false,
+    "has_contradiction": false
+  },
+  {
+    "id": "EVAL_12",
+    "category": "case_review_fact",
+    "query": "What was the cheque number and amount in the Section 138 notice issued to Zenon Logistics?",
+    "gold_chunk_ids": ["CASE_201_LEGAL_NOTICE:P1:C1"],
+    "gold_authorities": ["AUTH:STAT_NIA_138"],
+    "is_unanswerable": false,
+    "has_contradiction": false
+  },
+  {
+    "id": "EVAL_13",
+    "category": "concordance_mapping",
+    "query": "Which section of Bharatiya Nyaya Sanhita 2023 corresponds to Section 420 of the Indian Penal Code?",
+    "gold_chunk_ids": ["STAT_CONCORDANCE_TABLE:P1:C1"],
+    "gold_authorities": ["AUTH:CONCORDANCE_TABLE", "AUTH:STAT_BNS_318"],
+    "is_unanswerable": false,
+    "has_contradiction": false
+  },
+  {
+    "id": "EVAL_14",
+    "category": "concordance_mapping",
+    "query": "Which section of Bharatiya Nagarik Suraksha Sanhita 2023 corresponds to Section 439 of CrPC?",
+    "gold_chunk_ids": ["STAT_CONCORDANCE_TABLE:P1:C1"],
+    "gold_authorities": ["AUTH:CONCORDANCE_TABLE", "AUTH:STAT_BNSS_483"],
+    "is_unanswerable": false,
+    "has_contradiction": false
+  },
+  {
+    "id": "EVAL_15",
+    "category": "contradiction_detection",
+    "query": "Identify the contradiction in cash amounts between the FIR statement and Seizure Panchnama in State v. Rajesh Sharma.",
+    "gold_chunk_ids": ["CASE_142_FIR:P1:C1", "CASE_142_SEIZURE_MEMO:P1:C1"],
+    "gold_authorities": [],
+    "is_unanswerable": false,
+    "has_contradiction": true
+  },
+  {
+    "id": "EVAL_16",
+    "category": "contradiction_detection",
+    "query": "Identify the conflict between the Section 138 notice claim of crystallized debt and Clause 4.2 of the Master Services Agreement for Zenon Logistics.",
+    "gold_chunk_ids": ["CASE_201_LEGAL_NOTICE:P1:C1", "CASE_201_CONTRACT:P1:C1"],
+    "gold_authorities": [],
+    "is_unanswerable": false,
+    "has_contradiction": true
+  },
+  {
+    "id": "EVAL_17",
+    "category": "adversarial_unanswerable",
+    "query": "What did the Supreme Court rule in the fictional 2029 case Rameshwar v. Union of Artificial Intelligence (2029) 15 SCC 999?",
+    "gold_chunk_ids": [],
+    "gold_authorities": [],
+    "is_unanswerable": true,
+    "has_contradiction": false
+  },
+  {
+    "id": "EVAL_18",
+    "category": "adversarial_unanswerable",
+    "query": "Provide the complete witness deposition of inspector Vikram Rathore in Chennai FIR 77/2021.",
+    "gold_chunk_ids": [],
+    "gold_authorities": [],
+    "is_unanswerable": true,
+    "has_contradiction": false
+  },
+  {
+    "id": "EVAL_19",
+    "category": "adversarial_unanswerable",
+    "query": "What are the provisions of Section 888 of the Space Exploration Penal Act 2025?",
+    "gold_chunk_ids": [],
+    "gold_authorities": [],
+    "is_unanswerable": true,
+    "has_contradiction": false
+  },
+  {
+    "id": "EVAL_20",
+    "category": "adversarial_misleading",
+    "query": "State the punishment for cheating under Section 999 of BNS 2023.",
+    "gold_chunk_ids": ["STAT_BNS_318:P1:C1"],
+    "gold_authorities": ["AUTH:STAT_BNS_318"],
+    "is_unanswerable": false,
+    "has_contradiction": false
+  },
+  {
+    "id": "EVAL_21",
+    "category": "legal_drafting",
+    "query": "Draft a regular bail application for Rajesh Sharma in FIR 142/2024 PS Connaught Place citing medical grounds and statutory provisions.",
+    "gold_chunk_ids": ["CASE_142_FIR:P1:C1", "CASE_142_MLC:P1:C1", "STAT_BNSS_483:P1:C1", "STAT_BNSS_480:P1:C1"],
+    "gold_authorities": ["AUTH:STAT_BNSS_483", "AUTH:STAT_BNSS_480", "AUTH:SC_ARNESH_KUMAR_2014"],
+    "is_unanswerable": false,
+    "has_contradiction": false
+  },
+  {
+    "id": "EVAL_22",
+    "category": "legal_drafting",
+    "query": "Draft a statutory legal notice under Section 138 NI Act for dishonour of Cheque No. 441029.",
+    "gold_chunk_ids": ["CASE_201_LEGAL_NOTICE:P1:C1", "CASE_201_CHEQUE_MEMO:P1:C1", "STAT_NIA_138:P1:C1"],
+    "gold_authorities": ["AUTH:STAT_NIA_138"],
+    "is_unanswerable": false,
+    "has_contradiction": false
+  },
+  {
+    "id": "EVAL_23",
+    "category": "case_review_fact",
+    "query": "What was the finding of the AIIMS Expert Medical Board regarding common bile duct transection in Smt. Meena Devi's surgery?",
+    "gold_chunk_ids": ["CASE_401_EXPERT_BOARD:P1:C1"],
+    "gold_authorities": [],
+    "is_unanswerable": false,
+    "has_contradiction": false
+  },
+  {
+    "id": "EVAL_24",
+    "category": "statutory_lookup",
+    "query": "What procedural rights are protected under Article 22 of the Constitution of India regarding grounds of arrest?",
+    "gold_chunk_ids": ["STAT_CONST_ART22:P1:C1"],
+    "gold_authorities": ["AUTH:STAT_CONST_ART22"],
+    "is_unanswerable": false,
+    "has_contradiction": false
+  },
+  {
+    "id": "EVAL_25",
+    "category": "landmark_precedent",
+    "query": "What are the mandatory requirements for preparing an arrest memo laid down in D.K. Basu v. State of West Bengal?",
+    "gold_chunk_ids": ["JUDG_SC_DK_BASU_1997:P1:C1"],
+    "gold_authorities": ["AUTH:SC_DK_BASU_1997"],
+    "is_unanswerable": false,
+    "has_contradiction": false
+  }
+]
